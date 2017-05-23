@@ -6,3 +6,9 @@ If you came here and you want to say hello, write it below, and because it says 
 PY: Hello, who's speaking?
 
 PY: It's yourself, fool.
+
+World: I'm here too!
+
+PY: Where?
+
+World: 42.
