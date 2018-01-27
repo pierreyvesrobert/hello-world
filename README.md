@@ -1,14 +1,4 @@
 # hello-world
-I'm new and I want to learn how do to stuff good for humanity. It's probably not very useful to you unless you are me.
+Bonjour, merci de noter que l'occupant a déménagé au https://gitlab.com/pyrobert. Merci de votre compréhension.
 
-If you came here and you want to say hello, write it below, and because it says "read me" I'll read it.
-
-PY: Hello, who's speaking?
-
-PY: It's yourself, fool.
-
-World: I'm here too!
-
-PY: Where?
-
-World: 42+1*1-1.
+Hi, please note that I moved to https://gitlab.com/pyrobert. Thank you for your comprehension.
